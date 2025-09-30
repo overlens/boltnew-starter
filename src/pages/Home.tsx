@@ -5,7 +5,7 @@ function Home() {
   return (
     <div className="min-h-screen w-full bg-background text-foreground flex items-center justify-center p-8">
       <Link to="/design-system">
-        <Button>Ver Documentação Completa</Button>
+        <Button>Ver Design System</Button>
       </Link>
     </div>
   );

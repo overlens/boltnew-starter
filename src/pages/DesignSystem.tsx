@@ -315,10 +315,7 @@ function DesignSystem() {
               <CardContent className="pt-6">
                 <div className="flex gap-4 items-center">
                   <Avatar>
-                    <AvatarImage
-                      src="https://github.com/shadcn.png"
-                      alt="@shadcn"
-                    />
+                    <AvatarImage />
                     <AvatarFallback>CN</AvatarFallback>
                   </Avatar>
                   <Avatar>
